@@ -39,3 +39,9 @@ LINK : https://reports.cucumber.io/report-collections/e8209f6e-21e7-4628-8e69-9f
 ![image](https://user-images.githubusercontent.com/62463174/194310440-62130eac-7876-4b07-bfbb-bd05a40a3d05.png)
 
 LINK : https://drive.google.com/file/d/14Jw-u1J6mQtSdJedEH3cJ2HSntXTCo-7/view?usp=sharing
+
+---
+
+## BUG Report
+
+<a href="https://github.com/othneildrew/Best-README-Template/issues">List BUG on Cicle Staging Website</a>
