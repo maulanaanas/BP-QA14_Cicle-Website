@@ -19,3 +19,23 @@ LINK : https://docs.google.com/spreadsheets/d/1Rk-o40RzyvMlVSy1_8WSF2Kn7urVKGDyG
 
 ## Automation Test Summary
 
+![image](https://user-images.githubusercontent.com/62463174/194308307-78fc215a-719d-4fc6-8e7d-fb713ff04f86.png)
+
+LINK : https://reports.cucumber.io/report-collections/e8209f6e-21e7-4628-8e69-9feda7c4fc15
+
+---
+
+## Performance Test Summary
+
+* Card 
+    1. Kecepatan edit comment ngelag atau tidak?
+    2. Toggle member di card ngelag atau tidak?
+    3. Pindahkan card secara massal, apakah sudah sesuai atau belum?
+
+* Komentar dan Notifikasi
+    1. Ketika mengklik suatu notifikasi komentar, apakah sudah sesuai?
+    2. Ketika mengklik suatu notifikasi komentar, apakah sudah menuju bagian yang dimaksud?
+
+![image](https://user-images.githubusercontent.com/62463174/194310440-62130eac-7876-4b07-bfbb-bd05a40a3d05.png)
+
+LINK : https://drive.google.com/file/d/14Jw-u1J6mQtSdJedEH3cJ2HSntXTCo-7/view?usp=sharing
