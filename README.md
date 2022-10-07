@@ -44,4 +44,4 @@ LINK : https://drive.google.com/file/d/14Jw-u1J6mQtSdJedEH3cJ2HSntXTCo-7/view?us
 
 ## BUG Report
 
-<a href="https://github.com/othneildrew/Best-README-Template/issues">List BUG on Cicle Staging Website</a>
+<a href="https://github.com/maulanaanas/BP-QA14_Cicle-Website/issues">List BUG on Cicle Staging Website</a>
