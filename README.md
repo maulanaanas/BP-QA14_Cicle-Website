@@ -46,3 +46,10 @@ LINK : <a href="https://drive.google.com/file/d/14Jw-u1J6mQtSdJedEH3cJ2HSntXTCo-
 ## BUG Report
 
 LINK : <a href="https://github.com/maulanaanas/BP-QA14_Cicle-Website/issues">List BUG on Cicle Staging Website</a>
+
+---
+
+## Powerpoint
+
+LINK : <a href="https://docs.google.com/presentation/d/1ErLOlVmfityRPv1EQjHJspUXKHI59IFFvCCxNYO0-fQ/edit?usp=sharing">Powerpoint</a>
+
